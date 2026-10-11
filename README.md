@@ -1,0 +1,1 @@
+## %LOCALAPPDATA%\Astro\Saved\SaveGames\
